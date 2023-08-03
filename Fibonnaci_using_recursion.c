@@ -22,3 +22,6 @@ int main() {
     }
     return 0;
 }
+
+//Script by Kiran Kumar 
+//reg no:192110657
