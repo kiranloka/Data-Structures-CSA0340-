@@ -26,5 +26,5 @@ int main(){
   }else{
     printf("Number %d not found in the array\n",target);
   }
-  return 0;
+  return 0; 
 }
